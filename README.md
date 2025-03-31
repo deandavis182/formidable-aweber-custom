@@ -1,0 +1,1 @@
+Support multiple forms with unique tags on a single AWeber list. This plugin allows you to add different tags to subscribers based on which form they submit, eliminating the need for multiple AWeber lists. Perfect for tracking different lead sources, content downloads, or event registrations without paying for additional AWeber lists.
